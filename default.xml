@@ -224,7 +224,7 @@
 
   <project path="vendor/cyanogen" name="android_vendor_cyanogen" remote="genosoft" />
   <project path="addon" name="android_addon" remote="genosoft" />
-  <project path="vendor/cyanogen/overlay/cn" name="android_vendor_cyanogen_overlay_cn" remote="genosoft" />
+  <project path="cnoverlay" name="android_cnoverlay" remote="genosoft" />
 
   <project path="vendor/tmobile/apps/ThemeChooser" name="CyanogenMod/themes-platform-vendor-tmobile-apps-ThemeChooser" remote="github" revision="refs/heads/master" />
   <project path="vendor/tmobile/libs/com.tmobile.themes" name="themes-platform-vendor-tmobile-libs-com.tmobile.themes" remote="themes" revision="refs/heads/master" />
